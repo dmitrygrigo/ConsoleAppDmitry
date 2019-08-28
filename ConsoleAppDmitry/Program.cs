@@ -10,7 +10,7 @@ namespace ConsoleAppDmitry
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ABC123");
+            Console.WriteLine("ABC1234");
         }
     }
 }
